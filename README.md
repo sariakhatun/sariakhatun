@@ -91,5 +91,4 @@ I enjoy creating responsive, user-friendly web applications and continuously lea
 
 ---
 
-> ⚡ *This profile README is designed to meet all given requirements: Banner, Name & Designation, About Me, Current Activities, Skills with Icons, Social Links, GitHub Stats, and Pinned Projects.*
 
