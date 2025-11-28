@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFQLeIbgrC_5g/profile-displaybackgroundimage-shrink_200_800/B56ZiId12QH0AY-/0/1754636186797?e=1764201600&v=beta&t=aNmyBBDJCfcohObgPsD0vU0ouzUA2rU29l7EpJoWVTw" alt="Saria Khatun Banner" width="100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFQLeIbgrC_5g/profile-displaybackgroundimage-shrink_350_1400/B56ZiId12QH0Ac-/0/1754636186797?e=1766016000&v=beta&t=dR_iE2KxL3I_siQcROYzFstbdoMkq350UHmLLnyjte4" alt="Saria Khatun Banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Saria Khatun</h1>
 <h3 align="center">Frontend Developer | Web Developer from Bangladesh</h3>
