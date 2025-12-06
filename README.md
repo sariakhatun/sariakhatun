@@ -14,7 +14,8 @@
 
 ## 📝 About Me
 I am a passionate frontend developer currently studying at Jahangirnagar University (IIT).  
-I enjoy creating responsive, user-friendly web applications and continuously learning new technologies to enhance my skills.
+I enjoy creating responsive, user-friendly web applications and continuously learning new technologies to enhance my skills.<p align="">Visit My <a href="https://sariakhatun.netlify.app/" target="_blank"><strong>Personal Website</strong></a> 
+</p>
 
 ---
 
