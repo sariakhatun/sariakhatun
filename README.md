@@ -62,16 +62,17 @@ I enjoy creating responsive, user-friendly web applications and continuously lea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/sariakhatun">
-<img src="https://github-readme-stats.vercel.app/api?username=sariakhatun&show_icons=true&theme=radical" height="180px" alt="GitHub Stats" width="45%" /> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sariakhatun&layout=compact&theme=radical" alt="Top Languages" height="180px" width="45%" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sariakhatun&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sariakhatun&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sariakhatun&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sariakhatun&theme=react-dark&hide_border=true" alt="Contribution Graph" width="90%"/>
 </p>
-
 
 ---
 
