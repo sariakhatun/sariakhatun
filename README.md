@@ -62,8 +62,8 @@ I enjoy creating responsive, user-friendly web applications and continuously lea
 
 <p align="center">
   <a href="https://github.com/sariakhatun">
-<img src="https://readme-stats.clckblog.space/api?username=sariakhatun&show_icons=true&theme=radical" height="180px" />
-<img src="https://readme-stats.clckblog.space/api/top-langs/?username=sariakhatun&layout=compact&theme=radical" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=sariakhatun&show_icons=true&theme=radical" height="180px" alt="GitHub Stats" width="45%" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sariakhatun&layout=compact&theme=radical" alt="Top Languages" height="180px" width="45%" />
   </a>
 </p>
 
